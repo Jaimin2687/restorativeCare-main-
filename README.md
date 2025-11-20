@@ -409,8 +409,7 @@ restorativeCare-main/
 
 ### Contact Information
 
-📧 **Email**: [Your Email]  
-📱 **Phone**: [Your Phone]  
+📧 **Email**: jaiminparmar2687@gmail.com
 🌐 **Demo Site**: http://localhost/restorativecare (request access)  
 📂 **Documentation**: Available upon request
 
